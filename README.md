@@ -8,5 +8,6 @@ Create a new Application on https://discord.com/developers/applications
 
 * After creating an Application paste the Client Id in the code (Line 37)
 * Upload images in the category Rich Presence on https://discord.com/developers/applications and select them in the code (image name)
+* Configure states and details as you want
 
 - Lastly run the start.bat
