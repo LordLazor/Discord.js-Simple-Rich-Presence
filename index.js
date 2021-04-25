@@ -11,7 +11,7 @@ rpc.on('ready', () => {
         largeImageKey: 'large',
         largeImageText: 'IMAGElarge',
         smallImageKey: 'small',
-        smallImageText: 'IMAGEsmall'
+        smallImageText: 'IMAGEsmall',
         partySize: 1, 
         partyMax: 512,
         buttons: [{
