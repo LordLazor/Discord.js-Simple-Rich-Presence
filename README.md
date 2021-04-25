@@ -6,7 +6,7 @@ Just Copy the Source Code and edit anything you want. There is a preset in the i
 
 Create a new Application on https://discord.com/developers/applications
 
-* In there create one and copy the client id. --> Please paste the Client Id in the code
+* After creating an Application paste the Client Id in the code (Line 37)
 * Upload images in the category Rich Presence on https://discord.com/developers/applications and select them in the code (image name)
 
 - Lastly run the start.bat
