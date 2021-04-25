@@ -34,5 +34,5 @@ rpc.on('ready', () => {
 });
 
 rpc.login({
-    clientId: '835525037242318879'
+    clientId: 'YOUR CLIENT ID HERE'
 });
