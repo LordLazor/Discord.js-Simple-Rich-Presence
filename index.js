@@ -28,7 +28,7 @@ rpc.on('ready', () => {
 
     console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
     console.log('Rich Presence active')
-    console.log('You can edit the RP in here :)')
+    console.log('You can edit the Rich Presence in here :)')
     console.log('CREATED BY LordLazor')
     console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
     
