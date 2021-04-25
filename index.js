@@ -5,30 +5,31 @@ const rpc = new RPC.Client({
 
 rpc.on('ready', () => {
     rpc.setActivity({
-        details: 'Pentagon Roleplay',
-        state: 'Aktuell: ',
+        details: 'Pika Game',
+        state: 'Players: ',
         startTimestamp: new Date(),
-        largeImageKey: 'fivem',
-        largeImageText: 'PentagonRP',
+        largeImageKey: 'large',
+        largeImageText: 'IMAGElarge',
+        smallImageKey: 'small',
+        smallImageText: 'IMAGEsmall'
         partySize: 1, 
         partyMax: 512,
         buttons: [{
-            label: 'Beitreten',
-            url: 'https://www.pentagon-roleplay.de/'
+            label: 'PIKA',
+            url: 'https://knowyourmeme.com/memes/surprised-pikachu'
         },
         {
-            label: 'Discord',
-            url: 'https://discord.gg/CxBmJnr4TC'
+            label: 'GitHub',
+            url: 'https://github.com/LordLazor/'
         }]
-        //smallImageKey: 'small',
-        //smallImageText: 'IMAGEsmall'
+
     });
     console.clear()
 
     console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
     console.log('Rich Presence active')
     console.log('You can edit the RP in here :)')
-    console.log('CREATED BY LAZAR')
+    console.log('CREATED BY LordLazor')
     console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
     
 });
